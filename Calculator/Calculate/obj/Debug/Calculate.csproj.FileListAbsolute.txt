@@ -1,0 +1,11 @@
+E:\Study\大三上\Windows\finalreport\Calculator\Calculate\bin\Debug\Calculate.dll
+E:\Study\大三上\Windows\finalreport\Calculator\Calculate\bin\Debug\Calculate.pdb
+E:\Study\大三上\Windows\finalreport\Calculator\Calculate\obj\Debug\Calculate.csprojAssemblyReference.cache
+E:\Study\大三上\Windows\finalreport\Calculator\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+E:\Study\大三上\Windows\finalreport\Calculator\Calculate\obj\Debug\Calculate.dll
+E:\Study\大三上\Windows\finalreport\Calculator\Calculate\obj\Debug\Calculate.pdb
+D:\Calculator\Calculate\bin\Debug\Calculate.dll
+D:\Calculator\Calculate\bin\Debug\Calculate.pdb
+D:\Calculator\Calculate\obj\Debug\Calculate.csprojAssemblyReference.cache
+D:\Calculator\Calculate\obj\Debug\Calculate.dll
+D:\Calculator\Calculate\obj\Debug\Calculate.pdb
